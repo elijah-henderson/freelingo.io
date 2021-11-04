@@ -1,0 +1,16 @@
+body {
+    font-family: 'Ubuntu Mono', monospace;
+    color: black;
+}
+
+.nav-link {
+    color: black; 
+}
+
+.flag {
+    border-color: transparent;
+}
+
+.flag:hover {
+    max-width: 120%;
+}
