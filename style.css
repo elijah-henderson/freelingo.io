@@ -14,3 +14,7 @@ body {
 .flag:hover {
     max-width: 120%;
 }
+
+.icon {
+    max-width: 50%;
+}
