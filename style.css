@@ -4,7 +4,7 @@ body {
 }
 
 .nav-link {
-    color: black; 
+    color: black;
 }
 
 .flag {
@@ -17,4 +17,23 @@ body {
 
 .icon {
     max-width: 50%;
+}
+
+/* contact.html css */
+#contact-form {
+  margin: auto;
+  margin-top: 4%;
+}
+
+#contact-title {
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 1.5%;
+}
+
+#contact-desc {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 1%;
+  color: gray;
 }
